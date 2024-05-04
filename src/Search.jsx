@@ -21,6 +21,20 @@ export default function Search() {
       </form>
       <br />
       <h2>{message}</h2>
+      <footer>
+        {" "}
+        Openly sourced on{" "}
+        <a
+          href="https://github.com/KengMagee/react-search-engine-codesandbox"
+          target="_blank"
+        >
+          Github
+        </a>{" "}
+        and hosted on{" "}
+        <a href="" target="_blank">
+          Netlify
+        </a>
+      </footer>
     </div>
   );
 }
