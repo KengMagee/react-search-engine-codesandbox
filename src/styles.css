@@ -1,0 +1,10 @@
+.App,
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+.citySearch {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
